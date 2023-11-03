@@ -1,3 +1,5 @@
+pip install virtualenv
+newenv\Scripts\activate
 pytest -s -v -m "sanity" --html=reports/group.html testcases/ --browser chrome
 rem pytest -s -v -m "sanity" --html=reports/groupfirefox.html testcases/ --browser firefox
 
