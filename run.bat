@@ -1,6 +1,4 @@
-pip install virtualenv
-python -m venv newenv
-newenv\Scripts\activate.bat
+pip install -r requirement.txt
 pytest -s -v -m "sanity" --html=reports/group.html testcases/ --browser chrome
 rem pytest -s -v -m "sanity" --html=reports/groupfirefox.html testcases/ --browser firefox
 
