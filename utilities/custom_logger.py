@@ -10,7 +10,7 @@ class LogGen:
                             datefmt='%d/%m/%Y %I:%M:%S %p')
         filehandler.setFormatter(formatter)
         logger.addHandler(filehandler)
-        print("+++++++++++++++++++++++++++++++++++++++++++++")
+        print("------------------------------------------------------------")
 
         return logger
 
