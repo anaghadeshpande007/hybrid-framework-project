@@ -616,3 +616,103 @@
 03/11/2023 05:59:55 PM: INFO: demologger: *****************test login is passed********************
 03/11/2023 05:59:55 PM: INFO: demologger: *****************test login is passed********************
 03/11/2023 05:59:55 PM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:45:07 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:45:07 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:45:07 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:45:07 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:45:07 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:45:16 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:45:16 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:45:16 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:45:16 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:45:16 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:45:16 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:45:16 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:45:16 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:45:16 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:45:16 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:45:21 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:45:21 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:45:21 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:45:21 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:45:21 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:45:32 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:45:32 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:45:32 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:45:32 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:45:32 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:45:32 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:45:32 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:45:32 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:45:32 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:45:32 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:45:32 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:45:32 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:45:35 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:45:35 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:45:35 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:45:35 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:45:35 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:45:43 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:45:43 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:45:43 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:45:43 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:45:43 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:48:31 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:48:31 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:48:31 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:48:31 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:48:31 AM: INFO: demologger: ***************** Test_003_addcustomer **********************
+04/11/2023 01:48:38 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:48:38 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:48:38 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:48:38 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:48:38 AM: INFO: demologger: ********* login successful *************
+04/11/2023 01:48:38 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:48:38 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:48:38 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:48:38 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:48:38 AM: INFO: demologger: ************* starting add customer test *******************
+04/11/2023 01:48:42 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:48:42 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:48:42 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:48:42 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:48:42 AM: INFO: demologger: ************ providing customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************* saving customer info ********************
+04/11/2023 01:48:52 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:48:52 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:48:52 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:48:52 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:48:52 AM: INFO: demologger: **************** add customer validation started *********************
+04/11/2023 01:48:52 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:48:52 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:48:52 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:48:52 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:48:52 AM: INFO: demologger: ****** add customer test passed **********
+04/11/2023 01:48:52 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:48:52 AM: INFO: demologger: ************** ending home page title test ***********************
+04/11/2023 01:48:54 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:48:54 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:48:54 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:48:54 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:48:54 AM: INFO: demologger: *****************verifying test login********************
+04/11/2023 01:49:03 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:49:03 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:49:03 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:49:03 AM: INFO: demologger: *****************test login is passed********************
+04/11/2023 01:49:03 AM: INFO: demologger: *****************test login is passed********************

@@ -1,3 +1,6 @@
+import datetime
+import os.path
+
 import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
@@ -31,15 +34,16 @@ def browser(request):   #this will return browser value to setup method
 ############# pytest html report##################################################
 # it is a hook to add environment info to HTML Report
 
-def pytest_configure(config):
+def _pytest_configure_(config):
     metadata=config.pluginmanager.getplugin("metadata")
     if metadata:
-        config.stash[metadata_key]['Project Name']='nop Commerce'
-        config.stash[metadata_key]['Module Name'] = 'Customers'
+        config.stash[metadata_key]['Project Name']='nopcommerce'
+        config.stash[metadata_key]['Module Name'] = 'addcustomer'
         config.stash[metadata_key]['Tester'] = 'Anagha'
 
 #It is a hook for delete/modify environment info to HTML report
 @pytest.mark.optionalhook
 def pytest_metadata(metadata):
-    metadata.pop('JAVA_HOME',None)
+    metadata.pop('JAVA_HOME',None)  # remove unwanted data from report
     metadata.pop('Plugins',None)
+
